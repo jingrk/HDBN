@@ -1,2 +1,2 @@
 # HDBN
-a Heterogeneity-aware Deep Bayesian Network for emotion-aware music recommendation
+Personalized Music Recommendation with a Heterogeneity-aware Deep Bayesian Network
