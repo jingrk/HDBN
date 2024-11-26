@@ -2,7 +2,7 @@
 Emotion-aware Personalized Music Recommendation with a Heterogeneity-aware Deep Bayesian Network
 
 
-~~We will make the constructed dataset public after the paper is accepted.~~——>~~**The dataset is coming. We are now preparing the data files. The full dataset can be accessible within two days**.~~
+~~We will make the constructed dataset public after the paper is accepted.~~ $\rightarrow$ ~~The dataset is coming. We are now preparing the data files. The full dataset can be accessible within two days.~~ $\rightarrow$
 EmoMusicLJ and EmoMusicLJ-small (excluding audio files) have all been uploaded. The audio files are quite large, so we need to package them and upload them to a cloud drive. A link to the cloud drive will be provided later. Please refer to README-data.md for detailed file descriptions.
 
 
