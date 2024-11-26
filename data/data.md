@@ -30,4 +30,5 @@ EmoMusicLJ-small is derived from EmoMusicLJ. we performed an additional mapping 
 
 
 [1] Liu, Jen-Yu, Sung-Yen Liu, and Yi-Hsuan Yang. LJ2M dataset: Toward better understanding of music listening behavior and user mood. *2014 IEEE International Conference on Multimedia and Expo (ICME)*. IEEE, 2014.
+
 [2] Aljanaki, Anna, Frans Wiering, and Remco C. Veltkamp. Studying emotion induced by music through a crowdsourcing game. *Information Processing & Management* 52.1 (2016): 115-128.
