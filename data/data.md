@@ -28,6 +28,8 @@ EmoMusicLJ-small is derived from EmoMusicLJ. we performed an additional mapping 
 
 |————**song_index_small2large.json**: This file contains the mapping of  music indexes from EmoMusicLJ-small to EmoMusicLJ, provided in dict format.
 
+|————**songs_audio_emo.npy**: The music moods matrix. Each row corresponding to one music track.
+
 
 [1] Liu, Jen-Yu, Sung-Yen Liu, and Yi-Hsuan Yang. LJ2M dataset: Toward better understanding of music listening behavior and user mood. *2014 IEEE International Conference on Multimedia and Expo (ICME)*. IEEE, 2014.
 
