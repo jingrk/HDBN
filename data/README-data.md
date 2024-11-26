@@ -32,7 +32,7 @@ EmoMusicLJ-small is derived from EmoMusicLJ. We performed an additional mapping 
 
 |————\\**songs_audio_emo.npy**: The music moods matrix. Each row corresponds to one music track.
 
-Music audios will be packaged and uploaded to the cloud drive. The audios are in MP3 format, named according to the original music ID.
+Music audio will be packaged and uploaded to a cloud drive. These audios are in MP3 format, named according to the original music ID.
 
 [1] Liu, Jen-Yu, Sung-Yen Liu, and Yi-Hsuan Yang. LJ2M dataset: Toward better understanding of music listening behavior and user mood. *2014 IEEE International Conference on Multimedia and Expo (ICME)*. IEEE, 2014.
 
