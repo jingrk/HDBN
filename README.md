@@ -2,7 +2,7 @@
 Emotion-aware Personalized Music Recommendation with a Heterogeneity-aware Deep Bayesian Network
 
 
-We will make the constructed dataset public after the paper is accepted.——>The dataset is coming. We are now preparing the data files. The datasets will be uploaded within two days.
+~~We will make the constructed dataset public after the paper is accepted.~~——>**The dataset is coming. We are now preparing the data files, to be uploaded within two days**.
 
 
 We would be honored if you used the code in this article, and please also cite our paper in the following format:
