@@ -3,7 +3,7 @@ Emotion-aware Personalized Music Recommendation with a Heterogeneity-aware Deep 
 
 
 ~~We will make the constructed dataset public after the paper is accepted.~~ $\rightarrow$ ~~The dataset is coming. We are now preparing the data files. The full dataset can be accessible within two days.~~ $\rightarrow$
-EmoMusicLJ and EmoMusicLJ-small (excluding audio files) have all been uploaded. The audio files are quite large, so we need to package them and upload them to a cloud drive. A link to the cloud drive will be provided later. Please refer to README-data.md for detailed file descriptions.
+EmoMusicLJ and EmoMusicLJ-small (excluding audio files) have all been uploaded. The audio files are large, so we will package them and upload them to a cloud drive. The link to the cloud drive will be provided later. Please take a look at README-data.md for detailed file descriptions.
 
 
 We would be honored if you used the code in this article, and please also cite our paper in the following format:
