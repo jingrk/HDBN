@@ -3,6 +3,7 @@ Emotion-aware Personalized Music Recommendation with a Heterogeneity-aware Deep 
 
 
 ~~We will make the constructed dataset public after the paper is accepted.~~——>**The dataset is coming. We are now preparing the data files. The full dataset can be accessible within two days**.
+Please refer to data.md for detailed file descriptions.
 
 
 We would be honored if you used the code in this article, and please also cite our paper in the following format:
