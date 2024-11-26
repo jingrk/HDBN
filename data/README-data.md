@@ -20,7 +20,7 @@ File path and file description:
 |————\\**songs_audio_emo.npy**: This file contains the mood vectors for the music, with each row corresponding to the music index and representing a 9-dimensional vector. The 9 dimensions represent the proportions (distributions) of the moods: Amazement, Solemnity, Tenderness, Nostalgia, Calmness, Power, Joyful activation, Tension, and Sadness.     Music moods were labeled using a model trained on the Emotify dataset [2]. Alternatively, other methods can be used to label the music moods based on the audio features.
 
 |——\\**EmoMusicLJ-small**
-EmoMusicLJ-small is derived from EmoMusicLJ. we performed an additional mapping of user and music indexes between EmoMusicLJ-small and EmoMusicLJ. To get the original user and music IDs of EmoMusicLJ-small, you can first query the corresponding indexes in EmoMusicLJ, then look up the corresponding original user and music IDs of EmoMusicLJ.
+EmoMusicLJ-small is derived from EmoMusicLJ. We performed an additional mapping of user and music indexes between EmoMusicLJ-small and EmoMusicLJ. To get the original user and music IDs of EmoMusicLJ-small, you can first query the corresponding indexes in EmoMusicLJ, then look up the corresponding original user and music IDs of EmoMusicLJ.
 
 |————\\**user_music_interactions.csv**: The content of this file consists of all user-music interaction records, provided in the form of (user, music, user-emotion) triples. (**Note**: The values represent the indexes of the user, music, and user emotion tags, not the original IDs.)
 
@@ -30,8 +30,9 @@ EmoMusicLJ-small is derived from EmoMusicLJ. we performed an additional mapping 
 
 |————\\**song_index_small2large.json**: This file contains the mapping of  music indexes from EmoMusicLJ-small to EmoMusicLJ, provided in dict format.
 
-|————\\**songs_audio_emo.npy**: The music moods matrix. Each row corresponding to one music track.
+|————\\**songs_audio_emo.npy**: The music moods matrix. Each row corresponds to one music track.
 
+Music audios will be packaged and uploaded to the cloud drive. The audios are in MP3 format, named according to the original music ID.
 
 [1] Liu, Jen-Yu, Sung-Yen Liu, and Yi-Hsuan Yang. LJ2M dataset: Toward better understanding of music listening behavior and user mood. *2014 IEEE International Conference on Multimedia and Expo (ICME)*. IEEE, 2014.
 
