@@ -3,9 +3,9 @@ File path and file description:
 
 》Root path
 
-**song_list_7digital.csv**:  This file contains the music information provided by the LJ2M [1] dataset, including artist, music title, and music ID.
+|——\\**song_list_7digital.csv**:  This file contains the music information provided by the LJ2M [1] dataset, including artist, music title, and music ID.
 
-**emotion_map.json**:  This file contains the emotion words corresponding to the user emotion indexes.
+|——\\**emotion_map.json**:  This file contains the emotion words corresponding to the user emotion indexes.
 
 |——\\**EmoMusicLJ**
 
