@@ -7,6 +7,7 @@ EmoMusicLJ and EmoMusicLJ-small (excluding audio files) have all been uploaded. 
 
 Friendly reminder: Please do not use the music audio from the dataset for commercial purposes or to gain any non-academic benefits. Thank you very much.
 
+Note: The data is uploaded after reorganization, and there may be data path changes. If you encounter a path error when running the code, please configure the path correctly according to the directory list.
 
 We would be honored if you used the code or datasets in this article, and please also cite our paper in the following format:
 Erkang Jing, Yezheng Liu, Yidong Chai, Shuo Yu, Longshun Liu, Yuanchun Jiang, Yang Wang. 2024. Emotion-aware Personalized music recommendation with a heterogeneity-aware deep
