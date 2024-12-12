@@ -27,6 +27,7 @@ hyper_param = {
     'vae2_z': 16,
     'mu_prior': 0,
     'sigma_prior': 1,
+    'l2_lambda':5e-6,
     'KL_gamma1': 0.01,
     'KL_gamma2': 0.05,
     'recon_beta1': 0.000001,
