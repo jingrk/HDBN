@@ -50,7 +50,7 @@ train_set = data_RW().dataframe_load(Paths['dirpath']+Paths['UI_train'])
 ui_train, items_train, unum_train, inum_train, ue_train = data_prepare().get_sets(train_set,emo=True)
 valid_uies_group = {}
 for group_ in range(50):
-    valid_set_group = data_RW().dataframe_load(f"./data/EmoMusicLJ/cluster_users_valid/users_C{group_}.csv")
+    valid_set_group = data_RW().dataframe_load(f"./data/EmoMusicLJ/cluster_users_eval/users_C{group_}.csv")
     valid_uies = []
     for i in range(len(valid_set_group)):
         valid_uies.append([valid_set_group['user_id'][i],valid_set_group['song_id'][i],valid_set_group['emo_id'][i]])
